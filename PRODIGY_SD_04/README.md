@@ -9,7 +9,8 @@ A sleek and intuitive Sudoku solver built using **Python**, **Tkinter**, and **t
 - Responsive design with ttkbootstrap theming
 
 ## 🖼️ Preview
-![suduko solver](<Screenshot (43).png>)
+![Screenshot (43)](https://github.com/user-attachments/assets/9312b846-3516-4132-bb37-ed42b952a799)
+
 
 ## 🛠️ Requirements
 - Python 3.x
